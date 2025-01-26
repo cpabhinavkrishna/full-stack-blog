@@ -1,0 +1,39 @@
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  /* Styles */
+  .main-layout{
+    padding: 0px 10px;
+  }
+}
+@media only screen 
+and (min-device-width : 481px) 
+and (max-device-width : 768px) {
+  /* Styles */
+  .main-layout{
+    padding: 0px 15px;
+  }
+}
+@media only screen 
+and (min-device-width : 769px) 
+and (max-device-width : 1024px) {
+  /* Styles */
+  .main-layout{
+    padding: 0px 32px;
+  }
+}
+@media only screen 
+and (min-device-width : 1025px) 
+and (max-device-width : 1200px) {
+  /* Styles */
+  .main-layout{
+    padding: 0px 50px;
+  }
+}
+@media only screen 
+and (min-device-width : 1201px) {
+  /* Styles */
+  .main-layout{
+    padding: 0px 80px;
+  }
+}
